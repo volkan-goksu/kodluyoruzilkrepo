@@ -27,6 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+***
 
+![Gorsel](https://raw.githubusercontent.com/volkan-goksu/kodluyoruzilkrepo/main/Gorsel.png)
 
 
