@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğumuz ilk repo.
 
-#Installation
+# Installation
 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığını link gelecek)
 
