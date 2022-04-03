@@ -9,7 +9,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 git clone https://github.com/volkan-goksu/kodluyoruzilkrepo.git
 ``` 
 
-#Usage
+# Usage
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
@@ -19,11 +19,11 @@ Linux için:
 cd kodluyoruzİlkrepo
 code .
 ```
-#Contributing
+# Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
